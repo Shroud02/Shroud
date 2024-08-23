@@ -7,7 +7,6 @@
 ## 👋 Hi, I'm Sumit
 - 🎓 *Final Year Electronics and Telecommunication (ENTC) Engineering Student*
 - 🧠 Passionate about *Machine Learning, Web Development,* and *Healthcare Technology*
-- 🌟 Currently a *Web Development Intern at [Labdox](https://www.labdox.com)*
 - 🔭 Working on innovative projects that bridge the gap between technology and real-world applications.
 
 
@@ -24,17 +23,7 @@ A device designed to help older adults remember their medications. The box alert
   - 📅 Timely alerts for medication
   - 🔊 Audible buzzer for reminders
 
-### 2. 📚 *Labdox LMS*
-![Labdox LMS](https://github.com/Sandy1114D/Sandy1114D/blob/main/images/labdox_lms.png.png)
-
-A fully-responsive Learning Management System with a focus on modern design and user experience.
-- *Tech Stack:* React.js, Vite, Tailwind CSS
-- *Highlights:* 
-  - 🌐 Web-based platform
-  - 📱 Mobile-friendly design
-  - 🎨 Customizable themes
-
-### 3. 🌞 *Leaderboard & Dashboard Project*
+### 2. 🌞 *Leaderboard & Dashboard Project*
 ![Leaderboard & Dashboard](https://github.com/Sandy1114D/yourrepository/raw/main/images/leaderboard_dashboard.png)
 
 An interactive and aesthetically pleasing dashboard and leaderboard for tracking performance.
@@ -44,7 +33,7 @@ An interactive and aesthetically pleasing dashboard and leaderboard for tracking
   - 🎨 Customizable colors and layout
   - 📊 Scrollable leaderboard
 
-### 4. 📖 *Bookstore Project*
+### 3. 📖 *Bookstore Project*
 ![Bookstore Project](https://github.com/Sandy1114D/Sandy1114D/blob/main/images/Screenshot%202024-08-07%20163458.png)
 
 An online bookstore application for managing book inventory and sales.
@@ -54,7 +43,7 @@ An online bookstore application for managing book inventory and sales.
   - 📈 Admin panel for managing inventory
   - 💳 Secure payment gateway integration
 
-### 5. 📊 *SHL Dashboard*
+### 4. 📊 *SHL Dashboard*
 ![SHL Dashboard](https://github.com/Sandy1114D/Sandy1114D/blob/main/images/Screenshot%202023-10-29%20144536.png)
 
 A comprehensive dashboard for visualizing and analyzing SHL assessment data.
